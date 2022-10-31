@@ -6,17 +6,19 @@
 ![image](https://user-images.githubusercontent.com/115177864/199037463-a4fbc04b-97a4-4f10-9aab-d190224d64dc.png)
   ### 1.1.1.Modelo Entidad Relacion
   ### 1.1.2.DDL - Data Defination Lenguage
-   ## 1.2.Entornos de Desarrollo
+## 1.2.Entornos de Desarrollo
+![image](https://user-images.githubusercontent.com/115177864/199040656-9c486eb1-fc8c-4056-b16e-1a78ac007e9d.png)
    ### 1.2.1.T01
    ### 1.2.2.T02
    ### 1.2.3.T03
    ### 1.2.4.T04
 ## 1.3.Programacion
+![image](https://user-images.githubusercontent.com/115177864/199040755-86c3abce-2b5a-48c3-9af7-891ed3b651a8.png)
   ### 1.3.1.Secueciales
   ### 1.3.2.Condicionales
   ### 1.3.3.Iterativas 
 ## 1.4.Lenguaje de Marcas
-![img](https://user-images.githubusercontent.com/115177864/199040034-2035427a-3ca5-4fc2-a61c-38ffb37223d7.jpg)
+![img](C:\Users\Yerai\Downloads\descarga.jpg)
   ### 1.4.1.HTML
   `html`
    `head`
@@ -26,7 +28,7 @@
    `/head`
   `/html`
 ## 1.5.Sistemas Informaticos
-
+![image](https://user-images.githubusercontent.com/115177864/199040909-93fc4a4c-bc07-47fd-81e6-de58df81a0be.png)
 1. Primera Lista
 2. Segunda Lista
 3. Tercera Lista
