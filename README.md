@@ -1,12 +1,12 @@
 # Actividad4.2
 # Indice
 # URLs y otras direcciones
-[✔️] Enlaces a documento **Bases de datos** https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#11bases-de-datos
-[✔️] Enlaces a documento **Programacion** https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#13programacion
-[✔️]Enlcaes a documento **Lenguaje de Marcas** https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#14lenguaje-de-marcas
-[✔️] Enlaces a documento **Sistemas**https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#15sistemas-informaticos
-[✔️] Enlace a **Entornos de desarrollo** https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#15sistemas-informaticos
-[✔️] Enlaces a mi correo personal <yerai.b.cortijo@gmail.com>
+- [✔️] Enlaces a documento **Bases de datos** https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#11bases-de-datos
+- [✔️] Enlaces a documento **Programacion** https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#13programacion
+- [✔️]Enlcaes a documento **Lenguaje de Marcas** https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#14lenguaje-de-marcas
+- [✔️] Enlaces a documento **Sistemas**https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#15sistemas-informaticos
+- [✔️] Enlace a **Entornos de desarrollo** https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#15sistemas-informaticos
+- [✔️] Enlaces a mi correo personal <yerai.b.cortijo@gmail.com>
 # 1.Desarrollo de Aplicaciones Multiplataforma(DAM)
 ## 1.1.Bases de Datos
 ![image](https://user-images.githubusercontent.com/115177864/199037463-a4fbc04b-97a4-4f10-9aab-d190224d64dc.png)
