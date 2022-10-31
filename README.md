@@ -5,8 +5,7 @@
 ## 1.1.Bases de Datos
   ### 1.1.1.Modelo Entidad Relacion
    **Esto es un texto en negrita**
-   *Esto es un texto en italica*
-   > Esto es un teto en bloque
+   *Esto es un texto en italica* > Esto es un teto en bloque
   ### 1.1.2.DDL - Data Defination Lenguage
    ## 1.2.Entornos de Desarrollo
    ### 1.2.1.T01
