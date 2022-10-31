@@ -41,9 +41,11 @@
    *Texto en Italica*
    //Texto en bloque 
 ## 1.5.Sistemas Informaticos
+#
 1. Primera Lista
 2. Segunda Lista
 3. Tercera Lista
-4. Tercera Lista con Subindice
-5. Tercera Lista con Subindice dos
+  1. Tercera Lista con Subindice
+  2. Tercera Lista con Subindice dos
+4. Cuarta Lista 
 
