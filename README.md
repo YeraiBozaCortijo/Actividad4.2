@@ -59,5 +59,9 @@
 + Tercera Lista desordenada 
 
 # URLs y otras direcciones
-Enlaces a documentos <www.wikipedia.org>
-Enlaces a mi correo personal <yerai.b.cortijo@gmail.com>
+* Enlaces a documento Bases https://github.com/YeraiBozaCortijo/Actividad4.2/blob/main/README.md#11bases-de-datos
+* Enlaces a documento Programacion
+* Enlcaes a documento Lenguaje de Marcas
+* Enlaces a documento Sistemas
+* Enlace a Entornos
+* Enlaces a mi correo personal <yerai.b.cortijo@gmail.com>
