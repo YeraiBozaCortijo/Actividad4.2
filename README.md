@@ -16,7 +16,7 @@
   ### 1.3.2.Condicionales
   ### 1.3.3.Iterativas 
 ## 1.4.Lenguaje de Marcas
-![descarga](C:\Users\Yerai\Downloads\descarga.jpg)
+![img](C:\Users\Yerai\Downloads\descarga.jpg)
   ### 1.4.1.HTML
   `html`
    `head`
