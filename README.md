@@ -16,7 +16,7 @@
   ### 1.3.2.Condicionales
   ### 1.3.3.Iterativas 
 ## 1.4.Lenguaje de Marcas
-![descarga](https://user-images.githubusercontent.com/115177864/199037761-2ca656a4-d572-458f-95c5-5b464daa14b3.jpg)
+![descarga](Descargas/descarga.jpg
   ### 1.4.1.HTML
   `html`
    `head`
