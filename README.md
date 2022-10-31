@@ -3,7 +3,7 @@
 
 # 1.Desarrollo de Aplicaciones Multiplataforma(DAM)
 ## 1.1.Bases de Datos
-!https://www.google.com/url?sa=i&url=https%3A%2F%2Fsp.depositphotos.com%2Fstock-photos%2Fbase-de-datos.html&psig=AOvVaw2l_2isSCCZ6_DHGAeegb4g&ust=1667313794699000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiMq4XaivsCFQAAAAAdAAAAABAE
+![image](https://user-images.githubusercontent.com/115177864/199037463-a4fbc04b-97a4-4f10-9aab-d190224d64dc.png)
   ### 1.1.1.Modelo Entidad Relacion
   ### 1.1.2.DDL - Data Defination Lenguage
    ## 1.2.Entornos de Desarrollo
