@@ -37,13 +37,13 @@
    //Texto en bloque  
 ## 1.4.Lenguaje de Marcas
   ### 1.4.1.HTML
-  ''html''
-   ''head''
-   ''h1''
+  `html`
+   `head`
+   `h1`
    Mi primera pagina Web Yerai Boza Cortijo
-   ''/h1''
-   ''/head''
-  ''/html''
+   `/h1`
+   `/head`
+  `/html`
    **Texto en negrita**
    *Texto en Italica*
    //Texto en bloque 
