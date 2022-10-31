@@ -18,6 +18,7 @@
   | 0001 | Julian| Gomez| 1ªDAM|
   | 0002 | José| Gonzalez| 1ªDAM|
   | 0003 | David| Gerar| 1ªDAM|
+  --------------------------------------------
   **Tabla profesores**
   | DNI-P | NOMBRE-P | APELLIDOS-P | MODULOS-P |
   |-------|----------|-------------|---------|
