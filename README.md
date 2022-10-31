@@ -48,6 +48,5 @@
 
 
 * Primera Lista desordenada
-*Sublista desordenada 
 - Segunda Lista desordenada
 + Tercera Lista desordenada 
