@@ -12,27 +12,18 @@
 ![image](https://user-images.githubusercontent.com/115177864/199037463-a4fbc04b-97a4-4f10-9aab-d190224d64dc.png)
   ### 1.1.1.Modelo Entidad Relacion
   ### 1.1.2.DDL - Data Defination Lenguage
-  `create table Alumnos`
-  |DNI-A|NOMBRE-A|APELLIDOS-A|CURSO-A|
- -------------------------------------
-  |     |        |           |       |
-  ------------------------------------
-  |     |        |           |       |
-  ------------------------------------
-  |     |        |           |       |
-  ------------------------------------
-  |     |        |           |       |
-  `create table Profesores`
-  |DNI-P|NOMBRE-P|APELLIDOS-P|MODULOS-P|
-  --------------------------------------
-  |     |        |           |         |
-  --------------------------------------
-  |     |        |           |         |
-  --------------------------------------
-  |     |        |           |         |
-  --------------------------------------
-  |     |        |           |         |
-
+   **Tabla alumnos**
+  | DNI-A | NOMBRE-A | APELLIDOS-A | CURSO-A |
+  |-------|----------|-------------|---------|
+  | 0001 | Julian| Gomez| 1ªDAM|
+  | 0002 | José| Gonzalez| 1ªDAM|
+  | 0003 | David| Gerar| 1ªDAM|
+  **Tabla profesores**
+  | DNI-P | NOMBRE-P | APELLIDOS-P | MODULOS-P |
+  |-------|----------|-------------|---------|
+  | 0005 | Julian| Mateo| Base de datos(1ºDAM),Lenguaje de Marcas(1ºDAM) |
+  | 0006| Victoria| Perez| Programacion (1ºDAM),Sistemas(1ºDAM)|
+  | 0007 | Laura| Garcia| Entornos de Desarrollo(2ºDAM),Acceso a Datos(2ºDAM)|
 ## 1.2.Entornos de Desarrollo
 ![image](https://user-images.githubusercontent.com/115177864/199040656-9c486eb1-fc8c-4056-b16e-1a78ac007e9d.png)
    ### 1.2.1.T01
