@@ -44,6 +44,6 @@
 1. Primera Lista
 2. Segunda Lista
 3. Tercera Lista
-  1. Tercera Lista con Subindice
-  2. Tercera Lista con Subindice dos
+ 3.1. Tercera Lista con Subindice
+ 3.2. Tercera Lista con Subindice dos
 
