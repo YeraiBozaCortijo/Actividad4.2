@@ -13,7 +13,7 @@
    ### 1.2.2.T02
    **Texto en negrita**
    *Texto en Italica*
-   //Texto en bloque
+   //texto en bloque
    ### 1.2.3.T03
    **Texto en negrita**
    *Texto en Italica*
@@ -41,3 +41,9 @@
    *Texto en Italica*
    //Texto en bloque 
 ## 1.5.Sistemas Informaticos
+1. Primera Lista
+2. Segunda Lista
+3. Tercera Lista
+  1. Tercera Lista con Subindice
+  2. Tercera Lista con Subindice dos
+
