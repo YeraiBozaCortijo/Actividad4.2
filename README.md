@@ -37,7 +37,7 @@
   ### 1.3.2.Condicionales
   ### 1.3.3.Iterativas 
 ## 1.4.Lenguaje de Marcas
-![img]![descarga](https://user-images.githubusercontent.com/115177864/199041079-8536691d-8f64-4ba0-9475-9e94bc6fd2e2.jpg)
+![img]![descarga](descarga.jpg)
   ### 1.4.1.HTML
   `html`
    `head`
